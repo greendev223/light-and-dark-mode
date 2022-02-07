@@ -236,8 +236,9 @@ p {
     color: #00AB44;
 }
 .central-social{
-    padding: 1em 0;
+   
     justify-content: center;
+    align-items: center;
 }
 .btn-pad {
     color: white;
@@ -392,6 +393,7 @@ color: #05033A;
 .person_img_size {
     width: 100%;
     height: 80%;
+    border-radius: 20px;
 }
 
 .ellipse_class {
@@ -814,6 +816,7 @@ color: #05033A;
 
 .bottom_ba{
     display: none;
+
 }
 
 .nav{
